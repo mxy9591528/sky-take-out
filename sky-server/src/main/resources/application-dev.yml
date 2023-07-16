@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: qwer1234mnbv
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tB4uzbcdQq7e2n1VAHR
+    access-key-secret: kymBKKkzYckIXzBD5a0dIeseq5Gov9
+    bucket-name: firmament-take-out
